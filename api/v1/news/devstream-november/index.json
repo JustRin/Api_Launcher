@@ -1,0 +1,16 @@
+{
+  "article": {
+    "id": "devstream-november",
+    "title": "Devstream: планы на ноябрь",
+    "summary": "Разработчики делятся дорожной картой и первыми скриншотами ноябрьских активностей.",
+    "author": "LiveOps Team",
+    "publishedAt": "2025-11-05T17:00:00Z",
+    "heroImage": "https://cdn.juststudio.dev/news/devstream-november/cover.jpg",
+    "externalUrl": "https://juststudio.dev/news/devstream-november",
+    "body": [
+      "На devstream показали реворк системы прогрессии: теперь энергия копится быстрее, а лимиты на фарм сняты по выходным.",
+      "В ноябре стартует кроссовер с проектом Emberfall — игроков ждут два кооперативных задания и тематические награды.",
+      "Команда LiveOps подтвердила, что PvP-испытания вернутся в декабре, когда закончится работа над новой анти-чит системой."
+    ]
+  }
+}

@@ -1,11 +1,11 @@
-{
+﻿{
   "article": {
     "id": "devstream-november",
     "title": "Devstream: планы на ноябрь",
     "summary": "Разработчики делятся дорожной картой и первыми скриншотами ноябрьских активностей.",
     "author": "LiveOps Team",
     "publishedAt": "2025-11-05T17:00:00Z",
-    "heroImage": "https://cdn.juststudio.dev/news/devstream-november/cover.jpg",
+    "heroImage": "https://justrin.github.io/Api_Launcher/media/news/devstream-november/cover.jpg",
     "externalUrl": "https://juststudio.dev/news/devstream-november",
     "body": [
       "На devstream показали реворк системы прогрессии: теперь энергия копится быстрее, а лимиты на фарм сняты по выходным.",
@@ -14,3 +14,4 @@
     ]
   }
 }
+

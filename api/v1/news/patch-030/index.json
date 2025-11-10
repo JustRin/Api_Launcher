@@ -1,11 +1,11 @@
-{
+﻿{
   "article": {
     "id": "patch-030",
     "title": "Релиз патча 0.3.0 готов",
     "summary": "Подробности о свежем обновлении, новых ивентах и наградах.",
     "author": "Команда JustRin",
     "publishedAt": "2025-11-12T08:00:00Z",
-    "heroImage": "https://cdn.juststudio.dev/news/patch-030/cover.jpg",
+    "heroImage": "https://justrin.github.io/Api_Launcher/media/news/patch-030/cover.jpg",
     "externalUrl": "https://juststudio.dev/news/patch-030",
     "body": [
       "Патч 0.3.0 добавляет новый рейд «Карминовый улей» с двумя уровнями сложности и уникальными материалами усиления.",
@@ -14,3 +14,4 @@
     ]
   }
 }
+

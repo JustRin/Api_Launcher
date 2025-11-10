@@ -1,4 +1,4 @@
-{
+﻿{
   "news": [
     {
       "id": "patch-030",
@@ -6,7 +6,7 @@
       "summary": "Свежие рейды, обновлённые экспедиции и QoL-улучшения уже на серверах.",
       "publishedAt": "2025-11-12T08:00:00Z",
       "accentColor": "#FFE69839",
-      "heroImage": "https://cdn.juststudio.dev/news/patch-030/cover.jpg"
+      "heroImage": "https://justrin.github.io/Api_Launcher/api/v1/news/patch-030/cover.png"
     },
     {
       "id": "devstream-november",
@@ -14,7 +14,7 @@
       "summary": "Обсуждаем дорожную карту, переработку прогрессии и новые co-op активности.",
       "publishedAt": "2025-11-05T17:00:00Z",
       "accentColor": "#FF4A90E2",
-      "heroImage": "https://cdn.juststudio.dev/news/devstream-november/cover.jpg"
+      "heroImage": "https://justrin.github.io/Api_Launcher/api/v1/news/devstream-november/cover.png"
     },
     {
       "id": "event-synthwave",
@@ -22,30 +22,31 @@
       "summary": "Двухнедельный режим с эксклюзивным оружием и неоновой косметикой.",
       "publishedAt": "2025-10-28T10:30:00Z",
       "accentColor": "#FF3BE0B0",
-      "heroImage": "https://cdn.juststudio.dev/news/event-synthwave/cover.jpg"
+      "heroImage": "https://justrin.github.io/Api_Launcher/api/v1/news/event-synthwave/cover.png"
     }
   ],
   "gallery": [
     {
       "id": "banner-rover",
-      "image": "https://cdn.juststudio.dev/gallery/rover.jpg",
+      "image": "https://justrin.github.io/Api_Launcher/media/gallery/rover.jpg",
       "title": "WUTHERING WAVES",
       "subtitle": "Герой Rover уже доступен в экспедиции",
       "linkedArticleId": "patch-030"
     },
     {
       "id": "spotlight-devstream",
-      "image": "https://cdn.juststudio.dev/gallery/devstream.jpg",
+      "image": "https://justrin.github.io/Api_Launcher/media/gallery/devstream.jpg",
       "title": "Прямая связь с разработчиками",
       "subtitle": "Узнай все инсайды до выхода патча",
       "linkedArticleId": "devstream-november"
     },
     {
       "id": "event-synthwave-banner",
-      "image": "https://cdn.juststudio.dev/gallery/synthwave.jpg",
+      "image": "https://justrin.github.io/Api_Launcher/media/gallery/synthwave.jpg",
       "title": "Ивент недели",
       "subtitle": "Собери световой сет Rover-а",
       "linkedArticleId": "event-synthwave"
     }
   ]
 }
+
